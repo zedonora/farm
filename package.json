@@ -1,0 +1,16 @@
+{
+  "name": "farm",
+  "version": "1.0.0",
+  "description": "project",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run dev"
+  },
+  "keywords": [
+    "farm"
+  ],
+  "author": "yg",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
